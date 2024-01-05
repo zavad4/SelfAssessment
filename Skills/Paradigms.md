@@ -1,64 +1,63 @@
 ## Multi-paradigm programming
-
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - FRP (Functional-reactive)
+  - Procedural programming 🎓 known
+  - Imperative programming 🎓 known
+  - Structured programming 👂 heard
+  - Non-structured programming 👂 heard
+  - Functional programming 🎓 known
+  - Prototype-based programming 🎓 known
+  - Object-oriented programming 🎓 known
+  - Object-based programming 👂 heard
+  - Generic programming 👂 heard
+  - Concurrent computing 👂 heard
+  - Asyncronous programming 🙋 explained
+  - Parallel programming 🎓 known
+  - Reactive programming 🎓 known
+  - FRP (Functional-reactive) 🎓 known
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Domain-specific languages 👂 heard
+  - Multi-paradigm programming 🙋 explained
+  - Metaprogramming 👂 heard
+  - Actor model 🙋 explained
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - constructor 🙋 explained
+  - new 🙋 explained
+  - Static method 🙋 explained
+  - Method 🙋 explained
+  - Async method 🙋 explained
+  - Getters, Setters 🙋 explained
+  - Public fields 🙋 explained
+  - Private fields 🙋 explained
+  - Field declarations 🙋 explained
+  - Inheritance 🙋 explained
+  - Parent class 🙋 explained
+  - Polymorphism 🙋 explained
+  - Abstract class 🙋 explained
+  - Interface 🙋 explained
+  - Encapsulation 🙋 explained
   - Hidden class
   - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - instance 🙋 explained
+  - Introspection 🙋 explained
+  - Reflection 🙋 explained
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
+  - Singleton 🙋 explained
+  - Factory Method 🙋 explained
+  - Abstract Factory 🙋 explained
+  - Adapter 👂 heard
+  - Observer 🙋 explained
+  - Strategy 👂 heard
+  - Facade 👂 heard
+  - Proxy 🙋 explained
+  - Chain of Responsibility 🙋 explained
+  - Command 🎓 known
+  - Iterator 🙋 explained
+  - State 🎓 known
+  - Bridge 🎓 known
   - Builder
-  - Prototype
+  - Prototype 🙋 explained
   - Composite
-  - Decorator
+  - Decorator 🙋 explained
   - Flyweight
   - Mediator
   - Memento

@@ -1,82 +1,82 @@
 ## Programming fundamental concepts
-
+👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
+  - value 🙋 explained
+  - identifier 🙋 explained
+  - variable 🙋 explained
+  - constant 🙋 explained
+  - scalar 🙋 explained
+  - literal 🙋 explained
+  - expression 🙋 explained
+  - heap 🙋 explained
+  - function 🙋 explained
+  - procedure 🙋 explained
+  - method 🙋 explained
+  - class 🙋 explained
+  - prototype 🙋 explained
+  - event 🙋 explained
+  - type 🙋 explained
+  - primitive types 🙋 explained
+  - reference types 🙋 explained
+  - flag 🙋 explained
+  - lexical scope 🙋 explained
+  - code block 🙋 explained
+  - conditions 🙋 explained
+  - loops 🙋 explained
+  - assignment 🙋 explained
+  - regular expression 🙋 explained
+  - interface 🙋 explained
+  - contract 
+  - module 🙋 explained
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - signature 🙋 explained
+  - argument 🙋 explained
+  - parameter 🙋 explained
+  - pure function 🙋 explained
+  - lambda expression 🙋 explained
+  - side effects 🙋 explained
+  - closure 🙋 explained
+  - partial application 🙋 explained
+  - curry 🙋 explained
+  - higher order 🙋 explained
+  - recursion 🙋 explained
+  - callback 🙋 explained
+  - listener 🙋 explained
+  - compose 🙋 explained
+  - pipe 🙋 explained
+  - memoize 🎓 known
+  - wrapper 🙋 explained
+  - functor 🎓 known
+  - monad 🎓 known
+  - monoid 🎓 known
+  - generator 🙋 explained
+  - coroutine 🎓 known
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array 🙋 explained
+  - structure 🙋 explained
+  - record 🙋 explained
+  - enum 🙋 explained
+  - instance 🙋 explained
+  - object 🙋 explained
+  - class 🙋 explained
+  - collection 🙋 explained
+  - set 🙋 explained
+  - hash table 🙋 explained
+  - linked list 🙋 explained
+  - doubly list 🙋 explained
+  - unrolled list 🙋 explained
+  - circular list 🙋 explained
+  - queue 🙋 explained
+  - stack 🙋 explained
+  - deque 🙋 explained
+  - tree 🙋 explained
+  - graph 🙋 explained
+  - iterator 🙋 explained
+  - mutable state 🎓 known
+  - immutable state 🎓 known
+  - serialization 🙋 explained
+  - string parsing 🙋 explained
 - Process & style
   - compiler
   - transpiler
