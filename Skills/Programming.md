@@ -82,10 +82,10 @@
   - linter: 🙋 explained
   - polyfill: 👂 heard
   - debugger: 🙋 explained
-  - garbage collection: 👂 heard
+  - garbage collection: 🔬 researched
   - refactoring: 🙋 explained
   - code review: 🙋 explained
-  - antipatterns: 🙋 explained
+  - antipatterns: 🔬 researched
   - paradigm: 🙋 explained
   - algorithm: 🙋 explained
   - magic numbers: 🙋 explained

@@ -21,7 +21,7 @@
   - IIFE: 🙋 explained
   - global: 🙋 explained
   - globalThis: 🙋 explained
-  - window:
+  - window: 🎓 known
   - getters and setters: 🙋 explained
   - __proto__: 🔬 researched
   - prototype: 🔬 researched
@@ -74,7 +74,7 @@
   - undefined: 🙋 explained
   - null: 🙋 explained
   - Proxy: 🙋 explained
-  - weak collections
+  - weak collections 🎓 known
   - timers: 🙋 explained
   - EventEmitter: 🚀 constructed
   - RegExp: 🙋 explained

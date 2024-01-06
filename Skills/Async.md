@@ -5,16 +5,16 @@
   - Non-blocking: 👂 heard
   - Async I/O: 👂 heard
   - Thread pool: 👂 heard
-  - Pattern Reactor: 
+  - Pattern Reactor: 🎓 known
   - CAS operations
   - epoll
-  - kqueue 
+  - kqueue: 👂 heard
   - Completion ports
   - Event ports
   - libuv: 👂 heard
   - Race conditions: 🙋 explained
   - Deadlocks: 🎓 known
-  - Livelocks
+  - Livelocks: 👂 heard
   - Concurrent programming: 🙋 explained
   - Parallel programming: 🎓 known
   - Actor Model: 🙋 explained
@@ -27,13 +27,13 @@
   - Thenable: 🙋 explained
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
-  - Future 
-  - Deferred
+  - Future: 👂 heard 
+  - Deferred: 👂 heard
   - Sync generator: 🙋 explained
   - Async Generator: 🙋 explained
   - Async Iterator: 🙋 explained
   - Event: 🎓 known
-  - Coroutine
+  - Coroutine: 👂 heard
   - Goroutine
   - Signal: 👂 heard
   - Stream: 🙋 explained
@@ -54,22 +54,22 @@
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform: 👂 heard
-  - Async Pool
+  - Async Pool: 👂 heard
   - Async Queue: 🚀 constructed
   - Async Collector: 👂 heard
-  - Semaphore
-  - Mutex
+  - Semaphore: 👂 heard
+  - Mutex: 👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers 
+  - Timers: 🎓 known
   - setImmediate: 🖐️ used
-  - nextTick
+  - nextTick: 🎓 known
   - AbortController
   - AbortSignal
   - Promise unhandled rejection: 🙋 explained
-  - Promise double resolve
+  - Promise double resolve: 🎓 known
   - child_process: 🎓 known
-  - worker_threads
+  - worker_threads: 👂 heard 
   - Atomics
   - High resolution clock
   - Callback hell: 🎓 known
@@ -85,13 +85,13 @@
 - Techniques
   - async.js library: 🎓 known
   - RxJS library: 👂 heard
-  - Async composition
+  - Async composition: 🎓 known
   - Promise.all: 🖐️ used
   - Promise.allSettled: 🖐️ used
   - Promise.race: 🙋 explained
   - Promise.any: 🙋 explained
   - Web Locks API
   - IPC
-  - Channel API
+  - Channel API: 👂 heard
   - Revealing Constructor
   - Web Locks API
