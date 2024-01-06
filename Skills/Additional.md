@@ -10,6 +10,7 @@
   - Relational databases: 🙋 explained
   - NoSQL Database: 🙋 explained
   - Time series databases: 🙋 explained
+  - Elasticsearch: 🎓 known
   - Foreign key: 🙋 explained
   - Indexes: 🙋 explained
   - Database normalization: 🙋 explained
