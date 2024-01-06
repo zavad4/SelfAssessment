@@ -1,12 +1,11 @@
 ## Node.js and backend
-👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 - Internals and concepts
   - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers: 👂 heard
-  - Nonblocking I/O and slocking code
+  - Nonblocking I/O and slocking code: 👂 heard
   - Event loop: phases: 👂 heard
   - Event loop: microtasks and macrotasks: 👂 heard
-  - Garbage collection
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time): 👂 heard
@@ -15,14 +14,14 @@
   - ECMAScript modules: 🖐️ used
   - node:module: 👂 heard
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons 
   - Contexts and scripts node:vm: 👂 heard
   - Dependencies: npm, node_modules: 🙋 explained
   - Dependencies: package.json and package lock: 🙋 explained
   - Module-based permissions model
   - Isolation with modularity: 🎓 known
-  - Dependency injection
-  - DI containers
+  - Dependency injection: 🎓 known
+  - DI containers: 🎓 known
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
@@ -55,24 +54,24 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID: 🙋 explained
-  - node:url vs new URL 
+  - node:url vs new URL: 👂 heard 
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer: 🎓 known
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
+  - Isolation between layer: 👂 heard
+  - Multilayer approach: 👂 heard
   - Separation of concerns
-  - Inversion of control 👂 heard
-  - Dependency injection
-  - GRASP 🎓 known
-  - SOLID 🎓 known
+  - Inversion of control: 👂 heard
+  - Dependency injection: 
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
   - GoF patterns
   - Distributed systems: 🎓 known
   - Highload applications: 🎓 known
   - Clean architecture: 🎓 known
-  - DDD
+  - DDD: 🎓 known
   - Message Queue: 🎓 known
   - CQS: 👂 heard
   - CQRS: 👂 heard
@@ -89,12 +88,12 @@
   - HTTP(S): 🙋 explained
   - TCP/SSL: 🙋 explained
   - UDP: 🙋 explained
-  - TLS
+  - TLS: 🎓 known
   - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🎓 known
   - RPC
   - Routing
   - DoS
@@ -106,15 +105,15 @@
   - IncomingMessage
   - SQL injection: 🙋 explained
   - noDelay
-  - keep-alive
+  - keep-alive: 🎓 known
   - ALPN
   - SNI callback
   - SSL certificates:  🎓 known
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
+  - Native test runner: 
   - Logging: 🙋 explained
-  - Application configuring
+  - Application configuring: 🎓 known
   - Testing: 🙋 explained
   - CI/CD: 🙋 explained
   - Readable: 🙋 explained
@@ -124,16 +123,16 @@
   - Buffer: 🙋 explained
   - Console: 🙋 explained
   - Inspector
-  - Reliability 🎓 known
-  - Quality 🎓 known
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
   - Availability: 🙋 explained
   - Flexibility: 🙋 explained
 - Data access
-  - Data access layer
+  - Data access layer: 🎓 known
   - Repository: 🎓 known
   - Active record
-  - Query builder
-  - Object-Relational Mapping: 🎓 known
+  - Query builder: 🎓 known
+  - Object-Relational Mapping: 🔬 researched
 - Error handling and debugging
   - Error: 🎓 known
   - error.cause: 🎓 known
@@ -150,11 +149,11 @@
   - Resource leaks 
   - Data race
 - Integrations and bindings
-  - Native addons
-  - C and C++ addons
+  - Native addons: 👂 heard
+  - C and C++ addons: 👂 heard
   - Rust addons
   - Zig addons
-  - NAN (Native Abstractions for Node.js)
+  - NAN (Native Abstractions for Node.js): 👂 heard
   - Node-API (formerly N-API)
   - NAPI C and C++
   - NAPI Rust
@@ -164,6 +163,6 @@
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript
-  - Shared memory
-  - SharedArrayBuffer
+  - Shared memory: 👂 heard
+  - SharedArrayBuffer: 👂 heard
   - V8 binary serialization
