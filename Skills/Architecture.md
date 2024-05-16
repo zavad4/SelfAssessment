@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Modularity e
+  - Components k
+  - Directories e
+  - GRASP: k
+  - SOLID: e
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code k
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -20,59 +20,59 @@
   - Cyclomatic complexity
   - Reliability
   - Quality
-  - Availability
-  - Flexibility
+  - Availability k
+  - Flexibility e
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer k
+  - Domain-specific language (DSL) h
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming k
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) k
   - Clean architecture
   - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
+  - Pub/sub k
+  - Message brocker k
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ) k
   - CQRS
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling k
+  - Entity-relationship diagram e
   - IDEF1X
-  - UML
+  - UML k
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
-  - Load balancing
+  - Load balancing h
   - Gateways
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
+  - IaaS h
+  - PaaS h
+  - SaaS h
+  - FaaS clouds h
+  - Serverless h
   - Vendor lock-in
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design h
   - Process modelling
   - Data modelling
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds h
   - BPMN
-  - Low-code
+  - Low-code h
   - No-code
   - Metric
   - Metric abuse
@@ -80,21 +80,21 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs k
+  - Enterprise strategy k
   - Integration with subsystems
   - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
+  - Enterprise capabilities k
+  - Project scope k
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture k
+  - Microservices k
   - Process choreography
-  - Service orchestration
+  - Service orchestration h
   - Data warehouse
   - Business Intelligence
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
-  - Engineering Hygiene
+  - Quality assurance k
+  - Engineering Hygiene h
