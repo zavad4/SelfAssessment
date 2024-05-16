@@ -86,28 +86,25 @@ Total: you have `94` of `98` skills, `4` to be upgraded, and `83` above needed
 | --- | --- | --- | --- |
 | Signal | 👂 heard | ⟶  | 🖐️ used |
 | callbackify | 👂 heard | ⟶  | 🎓 known |
-| asyncify | 👂 heard | ⟶  | 🎓 known |
 | Transform | 👂 heard | ⟶  | 🖐️ used |
 | Async Pool | 👂 heard | ⟶  | 🎓 known |
 | Async Collector | 🤷 unknown | ⟶  | 🎓 known |
-| `nextTick` | 🎓 known | ⟶  | 🖐️ used |
 | AbortController | 👂 heard | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `41` of `50` skills, `9` to be upgraded, and `23` above needed
+Total: you have `43` of `50` skills, `7` to be upgraded, and `25` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | Signal | 👂 heard | ⟶  | 🎓 known |
 | callbackify | 👂 heard | ⟶  | 🎓 known |
-| asyncify | 👂 heard | ⟶  | 🎓 known |
 | Transform | 👂 heard | ⟶  | 🎓 known |
 | Async Pool | 👂 heard | ⟶  | 🎓 known |
 | Async Collector | 🤷 unknown | ⟶  | 🎓 known |
 | AbortController | 👂 heard | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `29` of `37` skills, `8` to be upgraded, and `21` above needed
+Total: you have `30` of `37` skills, `7` to be upgraded, and `23` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -119,19 +116,15 @@ Total: you have `29` of `37` skills, `8` to be upgraded, and `21` above needed
 | Signal | 👂 heard | ⟶  | 🖐️ used |
 | Locks | 🎓 known | ⟶  | 🖐️ used |
 | callbackify | 👂 heard | ⟶  | 🖐️ used |
-| asyncify | 👂 heard | ⟶  | 🖐️ used |
 | Transform | 👂 heard | ⟶  | 🖐️ used |
 | Async Pool | 👂 heard | ⟶  | 🖐️ used |
 | Async Collector | 🤷 unknown | ⟶  | 🖐️ used |
 | Semaphore | 👂 heard | ⟶  | 🖐️ used |
 | Spin Lock | 🤷 unknown | ⟶  | 🎓 known |
-| `nextTick` | 🎓 known | ⟶  | 🖐️ used |
 | AbortController | 👂 heard | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🖐️ used |
-| Promise double resolve | 🎓 known | ⟶  | 🖐️ used |
 | Atomics | 👂 heard | ⟶  | 🎓 known |
 | High resolution clock | 🤷 unknown | ⟶  | 🎓 known |
-| Promise hell | 🎓 known | ⟶  | 🖐️ used |
 | ref() and unref() | 👂 heard | ⟶  | 🖐️ used |
 | AsyncLocalStorage | 👂 heard | ⟶  | 🖐️ used |
 | AsyncResource | 👂 heard | ⟶  | 🖐️ used |
@@ -139,7 +132,7 @@ Total: you have `29` of `37` skills, `8` to be upgraded, and `21` above needed
 | IPC | 🤷 unknown | ⟶  | 🎓 known |
 | Channel API | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `48` of `75` skills, `27` to be upgraded, and `21` above needed
+Total: you have `52` of `75` skills, `23` to be upgraded, and `21` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
