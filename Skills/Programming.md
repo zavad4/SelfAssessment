@@ -200,7 +200,7 @@
   - Data clump
   - Feature envy
   - Monkey patch: 👂 heard
-  - Yo-yo problem
+  - Yo-yo problem h
 - Runtimes and virtual machines
   - Bytecode: 🎓 known
   - V8: 🎓 known

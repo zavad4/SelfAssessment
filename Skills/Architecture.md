@@ -6,7 +6,7 @@
   - Directories: 🙋 explained
   - GRASP: 🎓 known
   - SOLID: 🙋 explained
-  - GoF patterns
+  - GoF patterns k
   - CQS
   - Leaking abstractions
   - Multiparadigm code: 🎓 known
@@ -18,25 +18,25 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
+  - Reliability k
+  - Quality k
   - Availability: 🎓 known
   - Flexibility: 🙋 explained
-  - Law of Demeter (LoD)
+  - Law of Demeter (LoD) k
 - Application architecture
   - Isolation between layer: 🎓 known
   - Domain-specific language (DSL): 👂 heard
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach h
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC) h
   - Metaprogramming: 🎓 known
   - Inversion of control (IoC)
   - Dependency injection (DI): 🎓 known
-  - Clean architecture
+  - Clean architecture k
   - Domain-driven design (DDD)
   - Pub/sub: 🎓 known
-  - Message brocker: 🎓 known
+  - Message brocker: u
   - Agent
   - Service locator
   - Message Queue (MQ): 🎓 known
@@ -44,13 +44,13 @@
   - Event sourcing
   - E-R data modeling: 🎓 known
   - Entity-relationship diagram: 🙋 explained
-  - IDEF1X
-  - UML: 🎓 known
+  - IDEF1X h
+  - UML: u
   - Work breakdown structure
-  - Budget estimation
+  - Budget estimation h
   - Distributed systems
   - High-intensive computing
-  - Load balancing: 👂 heard
+  - Load balancing: k
   - Gateways
   - On-premises
   - IaaS: 👂 heard
@@ -59,7 +59,7 @@
   - FaaS clouds: 👂 heard
   - Serverless: 👂 heard
   - Vendor lock-in
-  - Bus factor
+  - Bus factor k
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
@@ -68,15 +68,15 @@
   - Process modelling
   - Data modelling
   - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
+  - Risk assessment k
+  - Non Functional Requirements (NFR) k
   - Clouds: 👂 heard
   - BPMN
   - Low-code: 👂 heard
-  - No-code
+  - No-code h
   - Metric
   - Metric abuse
-  - ACID
+  - ACID k
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture

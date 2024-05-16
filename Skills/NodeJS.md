@@ -6,7 +6,7 @@
   - Nonblocking I/O and blocking code: 👂 heard
   - Event loop phases: 🎓 known
   - Event loop microtasks and macrotasks: 🎓 known
-  - Garbage collection: 👂 heard
+  - Garbage collection: k
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -44,17 +44,17 @@
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
-  - AsyncLocalStorage
+  - AsyncLocalStorage h
   - AsyncResource
-  - Deprecated domain API
+  - Deprecated domain API h
   - Node.js single executable
   - SharedArrayBuffer
-  - Module `node:worker_threads`
+  - Module `node:worker_threads` h
   - Module `node:child_process`: 👂 heard
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID: 🖐️ used
-  - Module `node:url` vs `new URL`
+  - Module `node:url` vs `new URL` h
   - Module `node:assert`
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`: 🎓 known
@@ -78,7 +78,7 @@
   - REST: 🙋 explained
   - RPC
   - Routing
-  - DoS
+  - DoS h
   - DDoS: 🙋 explained
   - XSS: 🙋 explained
   - Path traversal
@@ -104,7 +104,7 @@
 - Data access
   - Data access layer: 🙋 explained
   - Repository: 🙋 explained
-  - Active record
+  - Active record h
   - Query builder: 🙋 explained
   - Object-Relational Mapping: 🙋 explained
   - CRUD: 🙋 explained
@@ -128,7 +128,7 @@
   - Native addons
   - `C` and `C++` addons: 👂 heard
   - `Rust` addons
-  - `Zig` addons
+  - `Zig` addons h
   - NAN (Native Abstractions for Node.js): 👂 heard
   - Node-API (formerly N-API)
   - NAPI `C` and `C++`
