@@ -1,0 +1,23 @@
+## Additional
+
+- IoT
+  - MQTT protocol: 🙋 explained
+  - CoAP protocol: 👂 heard
+  - Homie convention: 🙋 explained
+  - WebRTC protocol: 🖐️ used
+  - Brokers: 🙋 explained
+  - Microcontrollers: 🎓 known
+  - OCPP: 🙋 explained
+- Databases
+  - Relational databases: 🙋 explained
+  - NoSQL Database: 🙋 explained
+  - Time series databases: 🙋 explained
+  - Elasticsearch: 🎓 known
+  - Indexes: 🙋 explained
+  - Database normalization: 🙋 explained
+- Networks and tools
+  - Docker: 🙋 explained
+  - Dockerfile: 🙋 explained
+  - Docker-compose: 🙋 explained
+  - Kubernetes: 👂 heard
+  - SDN: 🎓 known

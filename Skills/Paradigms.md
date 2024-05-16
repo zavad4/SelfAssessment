@@ -47,12 +47,12 @@
   - Instance: 🙋 explained
   - Introspection: 🎓 known
   - Reflection: 🎓 known
-  - The diamond problem
+  - The diamond problem: 👂 heard
 - GRASP
   - Information expert: 🎓 known
   - Creator: 🎓 known
   - Controller: 🎓 known
-  - Indirection
+  - Indirection: 👂 heard
   - Low coupling
   - High cohesion
   - Protected variations
@@ -70,7 +70,7 @@
   - Adapter: 👂 heard
   - Observer: 🎓 known
   - Strategy
-  - Facade
+  - Facade: 👂 heard
   - Proxy: 🙋 explained
   - Chain of Responsibility: 🙋 explained
   - Command: 🙋 explained
@@ -82,10 +82,10 @@
   - Composite: 👂 heard
   - Decorator: 🎓 known
   - Flyweight
-  - Mediator
+  - Mediator: 👂 heard
   - Memento
   - Template Method
   - Visitor
   - Reactor: 🎓 known
   - Active object
-  - Delegation
+  - Delegation: 👂 heard
