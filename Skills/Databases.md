@@ -4,7 +4,7 @@
   - Data types: 🙋 explained
   - Performance tuning
   - Migrations: 🖐️ used
-  - Schema versioning: 👂 heard
+  - Schema versioning
   - Backup and recovery: 🙋 explained
   - Database scalability: 🎓 known
   - Relational databases: 🖐️ used
@@ -23,7 +23,7 @@
   - Data query language (DQL)
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
-  - Normal forms: 👂 heard
+  - Normal forms
   - Indexing: 🙋 explained
   - Primary keys: 🙋 explained
   - Foreign keys: 🙋 explained
@@ -41,7 +41,7 @@
   - `UPDATE`: 🙋 explained
   - `DELETE`: 🙋 explained
   - `LIMIT`: 🙋 explained
-  - `OFFSET`: 🙋 explained
+  - `OFFSET`e
   - `ORDER BY`: 🙋 explained
   - `GROUP BY`: 🙋 explained
   - `HAVING`: 🙋 explained
@@ -50,7 +50,7 @@
   - `INNER JOIN`: 🙋 explained
   - `LEFT JOIN`: 🙋 explained
   - `RIGHT JOIN`: 🙋 explained
-  - `UNION`: 🎓 known
+  - `UNION`: 👂 heard
   - `DISTINCT`: 🙋 explained
   - `WHERE`: 🙋 explained
   - `LIKE`: 🙋 explained
@@ -61,13 +61,13 @@
   - `DROP TABLE`: 🙋 explained
   - `PRIMARY KEY`: 🙋 explained
   - `FOREIGN KEY`: 🙋 explained
-  - `CHECK`: 🎓 known
+  - `CHECK`: 👂 heard
   - `DEFAULT`: 🎓 known
   - `INDEX`: 🙋 explained
   - `UNIQUE`: 🙋 explained
-  - `GRANT`: 👂 heard
-  - `REVOKE`: 👂 heard
-  - `DENY`: 👂 heard
+  - `GRANT`
+  - `REVOKE`
+  - `DENY`
   - `EXPLAIN`: 🙋 explained
 - Engines
   - PostgreSQL: 🖐️ used
@@ -75,7 +75,7 @@
   - MySQL: 🖐️ used
   - MariaDB: 🎓 known
   - MS SQL Server: 🖐️ used
-  - Redis: 🖐️ used
+  - Redis: 🎓 known
   - Rabbit
   - MongoDB: 🎓 known
   - Memcached

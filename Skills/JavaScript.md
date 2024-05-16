@@ -8,7 +8,7 @@
   - `BigInt`: 🙋 explained
   - `String`: 🙋 explained
   - `Symbol`: 🙋 explained
-  - `Infinity`: 🙋 explained
+  - `Infinity`e
   - `NaN`: 🙋 explained
   - `undefined`: 🙋 explained
   - `null`: 🙋 explained
@@ -37,16 +37,16 @@
   - Logical Assignment: 🙋 explained
   - Bitwise operators: 🙋 explained
   - Ternary operator: 🙋 explained
-  - `void`: 🖐️ used
-  - `yield`: 🖐️ used
+  - `void`: 🎓 known
+  - `yield`: 🎓 known
   - `await`: 🙋 explained
-  - Template literal: 🖐️ used
+  - Template literal
   - Strict mode: 🙋 explained
   - Hoisting: 🙋 explained
   - `delete`: 🙋 explained
   - `in`: 🙋 explained
   - `super`: 🙋 explained
-  - `eval`: 👂 heard
+  - `eval`
   - `static`: 🙋 explained
   - `Number.parseInt`: 🙋 explained
   - `Number.parseFloat`: 🙋 explained
@@ -91,30 +91,30 @@
   - `return`: 🙋 explained
 - Data structures
   - `Array`: 🙋 explained
-  - `Map`: 🖐️ used
-  - `Set`: 🖐️ used
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
   - `WeakMap`: 🎓 known
   - `WeakSet`: 🎓 known
   - Typed arrays: 🙋 explained
-  - Mixins: 🎓 known
+  - Mixins
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`: 🙋 explained
   - `RegExp`: 🙋 explained
   - `Date`: 🙋 explained
   - `Math`: 🙋 explained
-  - `Reflect`: 👂 heard
+  - `Reflect`
   - `Error`: 🙋 explained
-  - `Atomics`: 👂 heard
+  - `Atomics`
   - `JSON`: 🙋 explained
-  - `WeakRef`: 🎓 known
-  - `FinalizationRegistry`: 👂 heard
+  - `WeakRef`
+  - `FinalizationRegistry`
   - `Intl`
   - `Promise`: 🙋 explained
   - `console`: 🙋 explained
   - Timers: 🙋 explained
 - Infrastructure
-  - V8: 🖐️ used
+  - V8: 🎓 known
   - Node.js: 🙋 explained
   - npm: 🙋 explained
   - prettier: 🙋 explained
