@@ -6,7 +6,7 @@
   - Directories: 🙋 explained
   - GRASP: 🎓 known
   - SOLID: 🙋 explained
-  - GoF patterns: 🎓 known
+  - GoF patterns
   - CQS
   - Leaking abstractions
   - Multiparadigm code: 🎓 known
@@ -18,25 +18,25 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability: 🎓 known
-  - Quality: 🎓 known
+  - Reliability
+  - Quality
   - Availability: 🎓 known
   - Flexibility: 🙋 explained
-  - Law of Demeter (LoD): 🎓 known
+  - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer: 🎓 known
   - Domain-specific language (DSL): 👂 heard
   - System vs applied code
-  - Multilayer approach: 👂 heard
+  - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC): 👂 heard
+  - Separation of concerns (SoC)
   - Metaprogramming: 🎓 known
   - Inversion of control (IoC)
   - Dependency injection (DI): 🎓 known
-  - Clean architecture: 🎓 known
+  - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub: 🎓 known
-  - Message brocker: 🖐️ used
+  - Message brocker: 🎓 known
   - Agent
   - Service locator
   - Message Queue (MQ): 🎓 known
@@ -44,13 +44,13 @@
   - Event sourcing
   - E-R data modeling: 🎓 known
   - Entity-relationship diagram: 🙋 explained
-  - IDEF1X: 👂 heard
-  - UML: 🖐️ used
+  - IDEF1X
+  - UML: 🎓 known
   - Work breakdown structure
-  - Budget estimation: 👂 heard
+  - Budget estimation
   - Distributed systems
   - High-intensive computing
-  - Load balancing: 🎓 known
+  - Load balancing: 👂 heard
   - Gateways
   - On-premises
   - IaaS: 👂 heard
@@ -59,7 +59,7 @@
   - FaaS clouds: 👂 heard
   - Serverless: 👂 heard
   - Vendor lock-in
-  - Bus factor: 🎓 known
+  - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
@@ -68,15 +68,15 @@
   - Process modelling
   - Data modelling
   - Solution components
-  - Risk assessment: 🎓 known
-  - Non Functional Requirements (NFR): 🎓 known
+  - Risk assessment
+  - Non Functional Requirements (NFR)
   - Clouds: 👂 heard
   - BPMN
   - Low-code: 👂 heard
-  - No-code: 👂 heard
+  - No-code
   - Metric
   - Metric abuse
-  - ACID: 🎓 known
+  - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
