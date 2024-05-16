@@ -7,6 +7,7 @@
   - WebRTC protocol: 🖐️ used
   - Brokers: 🙋 explained
   - Microcontrollers: 🎓 known
+  - OCPP: 🙋 explained
 - Databases
   - Relational databases: 🙋 explained
   - NoSQL Database: 🙋 explained
