@@ -52,7 +52,7 @@
   - Information expert: 🎓 known
   - Creator: 🎓 known
   - Controller: 🎓 known
-  - Indirection h
+  - Indirection: 👂 heard
   - Low coupling
   - High cohesion
   - Protected variations
