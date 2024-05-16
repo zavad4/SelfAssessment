@@ -43,7 +43,7 @@
 - Async adapters and utils
   - callbackify h
   - promisify: u
-  - asyncify h
+  - asyncify u
   - Callbacks compose h
   - Async compose: 🎓 known
 - Async abstractions interfaces
@@ -61,15 +61,15 @@
 - JavaScript & Node.js specific
   - Timers: u
   - `setImmediate`: 🖐️ used
-  - `nextTick`: 🎓 known
+  - `nextTick`: u
   - AbortController h
   - AbortSignal h
   - Promise unhandled rejection: 🙋 explained
-  - Promise double resolve: 🎓 known
+  - Promise double resolve: u
   - Atomics h
   - High resolution clock
   - Callback hell: 🙋 explained
-  - Promise hell: 🎓 known
+  - Promise hell u
   - ref() and unref() h
   - Error handling in async code: u
   - Better stack traces with return await u
